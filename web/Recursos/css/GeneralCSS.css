@@ -1,0 +1,12 @@
+
+/* 
+    Created on : 10/05/2018, 10:09:32 AM
+    Author     : Rodrigo R. Rubio Haro
+*/
+
+body{
+    background-image: url('../img/wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: antiquewhite;
+}
